@@ -53,7 +53,9 @@ const Project = (props) => {
       <Description>
         <Title>{props.title}</Title>
         <Abstract>{props.abstract}</Abstract>
-        {props.link}
+        {props.githubLink}
+        {' '}/{' '}
+        {props.netlifyLink}
       </Description>
     </ProjectWrapper>
   )
