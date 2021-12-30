@@ -1,11 +1,11 @@
 var plugins = [{
-      plugin: require('/home/recoded/portfolio/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/home/kutay/portfolio/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/home/recoded/portfolio/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
+      plugin: require('/home/kutay/portfolio/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
       options: {"plugins":[],"displayName":true,"fileName":true,"minify":true,"namespace":"","transpileTemplateLiterals":true,"pure":false},
     },{
-      plugin: require('/home/recoded/portfolio/node_modules/gatsby-plugin-splitbee/gatsby-ssr'),
+      plugin: require('/home/kutay/portfolio/node_modules/gatsby-plugin-splitbee/gatsby-ssr'),
       options: {"plugins":[],"includeInDevelopment":false,"delayTimeout":0},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
