@@ -30,16 +30,13 @@ const About = () => {
       rightColumn={
         <Fragment>
           <Big>
-            Hi. I'm Kutay Kağan, a FrontEnd Developer living in&nbsp;İstanbul. I bring
+            Hi. I'm Kutay Kağan, a Front-end Developer living in&nbsp;İstanbul. I bring
             ideas to life with code and&nbsp;design.
           </Big>
           <p>
             In my work I strive to optimize the aesthetic value and usability of
             products without losing sight of the technical challenges and
             limitations.
-          </p>
-          <p>
-            I am currently developing my capstone project for the online FrontEnd Development bootcamp by <a target = "_blank" href="https://www.re-coded.com/">Recoded</a>.
           </p>
           <p style={{ marginBottom: 0 }}>
             Outside of work I'm passionate about coding in general, guitars,
