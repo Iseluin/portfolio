@@ -22,8 +22,7 @@ const Footer = () => {
   return (
     <Section>
       <FooterText>
-        Check me out on&nbsp;
-        <a href="https://github.com/Iseluin">Github</a>
+        Done with Gatsby.js
       </FooterText>
     </Section>
   )

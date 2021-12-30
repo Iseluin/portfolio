@@ -5,12 +5,12 @@ const KellerkindLogo = (props) => {
     <svg
       xmlns="http://www.w3.org/2000/svg"
       xmlnsXlink="http://www.w3.org/1999/xlink"
-      width="120"
-      height="120"
-      viewBox="0 0 120 120"
+      width="125"
+      height="125"
+      viewBox="0 0 125 125"
       fill="none"
     >
-      <rect width="120" height="120" fill="url(#pattern0)" />
+      <rect width="125" height="125" fill="url(#pattern0)" />
       <defs>
         <pattern
           id="pattern0"
